@@ -18,3 +18,5 @@ Sprites: [GameArt 2D](https://opengameart.org/)
 
 >Se a vida não ficar mais fácil, trate de ficar mais forte.
 
+```
+Debug.Log("Teste");
